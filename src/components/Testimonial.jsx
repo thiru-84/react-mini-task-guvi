@@ -6,7 +6,7 @@ function Testimonial() {
     <div className="flex justify-evenly items-center">
       {/* <!-- Testimonial 1 --> */}
       <div className="flex-col flex justify-center items-center">
-        <img src="./src/assets/fourthimage.png" alt="" className="rounded-full w-16 h-16" />
+        <img src="../src/assets/fourthimage.png" alt="" className="rounded-full w-16 h-16" />
         <h1 className="text-xl font-semibold text-black">
           {"You made it so simple"}
         </h1>
@@ -18,7 +18,7 @@ function Testimonial() {
       </div>
       {/* <!-- Testimonial 2 --> */}
       <div className="flex-col flex justify-center items-center">
-        <img src="./src/assets/fifthimage.png" alt="" className="rounded-full w-16 h-16" />
+        <img src="../src/assets/fifthimage.png" alt="" className="rounded-full w-16 h-16" />
         <h1 className="text-xl font-semibold text-black">
           {"You made it so simple"}
         </h1>

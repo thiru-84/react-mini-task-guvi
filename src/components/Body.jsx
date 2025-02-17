@@ -15,7 +15,7 @@ function Body() {
         </button>
       </div>
       <div className="w-1/2 flex justify-center">
-        <img src="./src/assets/secondimage.png" alt="" className="rounded shadow-sm" />
+        <img src="../src/assets/secondimage.png" alt="" className="rounded shadow-sm" />
       </div>
     </section>
 

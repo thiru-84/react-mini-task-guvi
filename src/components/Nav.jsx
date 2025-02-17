@@ -33,7 +33,7 @@ function Nav() {
       </div>
 
       <div className="flex justify-center mt-12">
-        <img className="w-2/4 rounded shadow-lg" src="./src/assets/firstimage.png" alt="" />
+        <img className="w-2/4 rounded shadow-lg" src="../src/assets/firstimage.png" alt="" />
       </div>
     </main>
 

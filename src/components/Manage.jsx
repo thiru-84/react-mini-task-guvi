@@ -14,7 +14,7 @@ function Manage() {
       </div>
       <div className="flex justify-center items-center gap-16">
         <div className="flex justify-center items-center w-96">
-          <img src="./src/assets/thirdimage.png" alt="" className="rounded shadow-lg" />
+          <img src="../src/assets/thirdimage.png" alt="" className="rounded shadow-lg" />
         </div>
 
         <div className="space-y-8">
